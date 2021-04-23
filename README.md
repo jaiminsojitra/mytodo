@@ -39,6 +39,30 @@ It does not have much features right now, but it does have a add and delete butt
 <img width="296" alt="scrennshot3" src="https://user-images.githubusercontent.com/83035294/115814027-4c0f8300-a3c2-11eb-9628-84a24bf2df4b.png">
 <img width="309" alt="screenshot1" src="https://user-images.githubusercontent.com/83035294/115813802-d99ea300-a3c1-11eb-8e01-45f6e565999a.png">
 
+#### Dependencies
+
+implementation fileTree(dir: "libs", include: ["*.jar"])
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    
+    implementation 'androidx.core:core-ktx:1.3.1'
+    
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
+    
+    testImplementation 'junit:junit:4.12'
+    
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    implementation 'com.google.android.material:material:1.3.0-alpha02'
+
+## Screenchots of the Application
+
+
+
 
 
                                                                                                                                                             
