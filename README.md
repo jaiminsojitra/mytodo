@@ -36,7 +36,8 @@ It does not have much features right now, but it does have a add and delete butt
 
 ## Manifest
 
-![]<img width="309" alt="screenshot1" src="https://user-images.githubusercontent.com/83035294/115813802-d99ea300-a3c1-11eb-8e01-45f6e565999a.png">
+<img width="296" alt="scrennshot3" src="https://user-images.githubusercontent.com/83035294/115814027-4c0f8300-a3c2-11eb-9628-84a24bf2df4b.png">
+<img width="309" alt="screenshot1" src="https://user-images.githubusercontent.com/83035294/115813802-d99ea300-a3c1-11eb-8e01-45f6e565999a.png">
 
 
 
