@@ -13,7 +13,7 @@
 - [Features](#features)
 - [Technologies](#technologies)
 - [Manifest](#manifest)
-- [Screenshots of the application](#screenshots of the application)
+- [Screenshots of the application](#screenshots-of-the-application)
 
 ## Description
 This project is based on making a simple application that helps to keep a track of our daily tasks. It is really easy to use and easy to manage. It is used for simple home lists or to manage complex multi-user projects for business. In addition to tracking the status of tasks. you just have to type in your daily task and checkit out as you complete it so you can keep track of your tasks.
@@ -60,6 +60,15 @@ implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation 'com.google.android.material:material:1.3.0-alpha02'
 
 ## Screenchots of the Application
+
+![Image 1](https://user-images.githubusercontent.com/83035294/115814500-2d5dbc00-a3c3-11eb-9219-53f024174aef.jpeg)
+![image 2](https://user-images.githubusercontent.com/83035294/115814512-32bb0680-a3c3-11eb-94b3-4f7b40f2da9c.jpeg)
+
+## Author info
+
+Name: Jaimin Sojitra
+Email ID: jdineshk@lakeheadu.ca
+
 
 
 
