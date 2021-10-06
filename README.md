@@ -66,9 +66,9 @@ implementation fileTree(dir: "libs", include: ["*.jar"])
 
 ## Author info
 
-Name: Jaimin Sojitra
+Name: Harshil Patel
 
-Email ID: jdineshk@lakeheadu.ca
+Email ID: hpatel34@lakeheadu.ca
 
 
 
